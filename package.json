@@ -1,0 +1,19 @@
+{
+  "name": "flower-installer",
+  "version": "1.0.0",
+  "description": "Installer for FlowerPHP",
+  "main": "installer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node ."
+  },
+  "keywords": [
+    "installer",
+    "flowerphp"
+  ],
+  "author": "flexice",
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "git-clone": "^0.1.0"
+  }
+}
